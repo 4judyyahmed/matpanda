@@ -1,0 +1,9 @@
+product,units,price,total_revenue
+Laptop,10,1000
+Mouse,50,20
+Keyboard,30,80
+Monitor,5,300
+Headphones,40,50
+Webcam,15,70
+
+plt.show()
